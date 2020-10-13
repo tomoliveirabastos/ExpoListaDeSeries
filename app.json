@@ -1,0 +1,21 @@
+{
+  "name": "Lista de Series",
+  "displayName": "Lista de Series",
+  "expo": {
+    "android": {
+      "package": "com.tom.oliveira",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.tom.oliveira",
+      "buildNumber": "1.0.0"
+    },
+    "icon" : "./icone.png",
+    "name": "ReactNativeListaApp",
+    "slug": "ReactNativeListaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
